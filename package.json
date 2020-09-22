@@ -1,6 +1,6 @@
 {
   "name": "normalize-webapp.css",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A modern alternative to CSS resets, but with a few more touches",
   "main": "normalize.css",
   "style": "normalize.css",

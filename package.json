@@ -1,15 +1,16 @@
 {
-  "name": "normalize.css",
-  "version": "8.0.1",
-  "description": "A modern alternative to CSS resets",
+  "name": "normalize-webapp.css",
+  "version": "1.0",
+  "description": "A modern alternative to CSS resets, but with a few more touches",
   "main": "normalize.css",
   "style": "normalize.css",
   "files": [
     "LICENSE.md",
     "normalize.css"
   ],
-  "repository": "necolas/normalize.css",
-  "license": "MIT",
-  "bugs": "https://github.com/necolas/normalize.css/issues",
-  "homepage": "https://necolas.github.io/normalize.css"
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/notangelmario/normalize-webapp.css.git"
+  },
+  "license": "MIT"
 }

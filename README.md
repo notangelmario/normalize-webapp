@@ -8,6 +8,7 @@ This fork sports the same features as normalize.css, but with a few add ons such
 - Disabling selection
 - Disabling the blue highlight when tapping
 - Disabling the right click on images
+- Disable horizontal scrolling on body
 
 ## Usage
 

@@ -12,8 +12,5 @@
     "type" : "git",
     "url" : "https://github.com/notangelmario/normalize-webapp.css.git"
   },
-  "license": "MIT",
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/@notangelmario"
-  }
+  "license": "MIT"
 }

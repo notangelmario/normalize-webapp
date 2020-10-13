@@ -1,5 +1,7 @@
 # normalize-webapp
 
+> Initially started as a fork of normalize.css
+
 > normalize-webapp is a simple package that adds css and javascript tweaks that makes your web app feel more like a native app
 
 

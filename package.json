@@ -1,16 +1,17 @@
 {
-  "name": "normalize-webapp.css",
-  "version": "1.1.1",
+  "name": "normalize-webapp",
+  "version": "1.2.0",
   "description": "A modern alternative to CSS resets, but with a few more touches",
-  "main": "normalize.css",
+  "main": "index.js",
   "style": "normalize.css",
   "files": [
     "LICENSE.md",
-    "normalize.css"
+    "normalize.css",
+    "index.js"
   ],
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/notangelmario/normalize-webapp.css.git"
+    "url" : "https://github.com/notangelmario/normalize-webapp.git"
   },
   "license": "MIT"
 }
